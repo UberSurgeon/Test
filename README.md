@@ -1,2 +1,1 @@
-# Test
-testing_github
+# My New Project
